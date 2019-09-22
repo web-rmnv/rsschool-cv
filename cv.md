@@ -16,15 +16,15 @@ I want to be a front end developer. I am ready to study hard. In addition to rss
 
 ## Code example
 ```
-econst difference =  (set1, set2)  =>  {
+const difference =  (set1, set2)  =>  {
 	const result =  new Set([...set1].filter(x =>  !set2.has(x)));
 	return result;
 };
-export  default difference;
+export default difference;
 ```
 
 ## Education
-| University                                                       | Faculty:                       | Specialty:                     |
+| University                                                       | Faculty                        | Specialty                      |
 |------------------------------------------------------------------|--------------------------------|--------------------------------|
 | Belarusian State University  of Informatics and Radioelectronics | Faculty  of Infocommunications | Infocommunication Technologies |
 
