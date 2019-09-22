@@ -5,7 +5,7 @@
 **Name:** Raman Ramanau
 **Address:** Belarus, Minsk, Pushkina ave.
 **Phone:** +375 33 6**-**-*6
-**Email:** raman.ramanau@gmail.com
+**Email:** web.rmnv@gmail.com
 **Discord:** rmnvrr#5356
 
 ## About me
