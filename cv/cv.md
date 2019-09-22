@@ -3,10 +3,10 @@
 ## Personal information
 ![Personal photo](https://upload.wikimedia.org/wikipedia/ru/5/5f/Original_Doge_meme.jpg)
 
-**Name:** Raman Ramanau
-**Address:** Belarus, Minsk, Pushkina ave.
-**Phone:** +375 33 6**-**-*6
-**Email:** web.rmnv@gmail.com
+**Name:** Raman Ramanau  
+**Address:** Belarus, Minsk, Pushkina ave.  
+**Phone:** +375 33 6**-**-*6  
+**Email:** web.rmnv@gmail.com  
 **Discord:** rmnvrr#5356
 
 ## About me
